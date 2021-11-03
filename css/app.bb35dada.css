@@ -530,7 +530,7 @@ top:-70px;
 transform:rotate(105deg)}#team .presentation{width:77.77%}footer .infos{width:auto;
 padding-right:30px}footer .baseline{margin-top:20px;
 line-height:2.5rem}footer .copyright{line-height:2rem}footer .right{width:auto}#registration .side{width:100%}#registration .cta{padding:16px 30px}#registration .or{padding:0 20px}#video{display:none}#left-hero header{width:100%}#left-hero .link{margin-right:15px}}@media(max-width:780px){header .typo{margin-left:12px}header .link{margin-right:7px}#hero{height:750px;
-background:url(/images/hero.jpg) no-repeat;
+background-image:url("../images/Ballmon_mn_mobile.png") no-repeat;
 background-size:cover;
 background-position:bottom}#hero #hero-video{display:none}#presentation{margin:100px 0 70px}#gallery .carousel__pagination-item button{width:30px}#gallery .carousel__pagination{margin-top:10px}#roadmap .intro,#roadmap h2{width:100%;
 margin-left:0}#roadmap .line{left:50px}#roadmap .dot{margin-left:-32px}#roadmap .title{flex-direction:column;
